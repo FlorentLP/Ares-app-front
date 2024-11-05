@@ -1,4 +1,10 @@
 {
+  "expo": {
+    "web": {
+      "output": "server",
+      "bundler": "metro"
+    }
+  },
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
     "esModuleInterop": true,
